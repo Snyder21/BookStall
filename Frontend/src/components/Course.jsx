@@ -21,17 +21,19 @@ function Course() {
       <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4">
         <div className="mt-28 items-center justify-center text-center">
           <h1 className="text-2xl  md:text-4xl">
-            We're delighted to have you{" "}
-            <span className="text-pink-500"> Here! :)</span>
+            Welcome to the beginning of a beautiful journey.{" "}
+            <span className="text-pink-500">  :)</span>
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            assumenda? Repellendus, iste corrupti? Tempore laudantium
-            repellendus accusamus accusantium sed architecto odio, nisi expedita
-            quas quidem nesciunt debitis dolore non aspernatur praesentium
-            assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
-            consequatur!
+            Welcome to BookStall, your one-stop shop for all your literary needs!
+            Here, you can explore a vast collection of books,
+            from classic novels to contemporary bestsellers.
+            Whether you're a seasoned reader or just starting your
+            literary journey, we have something for everyone.
+            Looking for a specific book for a short period? Our rental
+            service allows you to borrow physical books for a set duration,
+            perfect for students, researchers,
+            or anyone who wants to explore a book without committing to ownership.
           </p>
           <Link to="/">
             <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
